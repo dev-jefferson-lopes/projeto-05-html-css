@@ -1,5 +1,7 @@
 # projeto-05-html-css
 
+https://iridescent-cassata-892c71.netlify.app/
+
 Este projeto tem como objetivo criar uma página web básica, utilizando HTML e CSS para sua construção. O resultado será uma única página HTML que apresentará informações sobre uma Padaria, complementada por um arquivo CSS que incluirá apenas os estilos necessários para um visual atrativo e responsivo, sem uso de media queries.
 
 ## Layout web
